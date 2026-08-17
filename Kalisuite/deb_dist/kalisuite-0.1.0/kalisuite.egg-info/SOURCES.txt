@@ -1,8 +1,0 @@
-README.md
-setup.py
-kalisuite.egg-info/PKG-INFO
-kalisuite.egg-info/SOURCES.txt
-kalisuite.egg-info/dependency_links.txt
-kalisuite.egg-info/entry_points.txt
-kalisuite.egg-info/requires.txt
-kalisuite.egg-info/top_level.txt

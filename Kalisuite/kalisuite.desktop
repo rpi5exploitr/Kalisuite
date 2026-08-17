@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=KaliSuite
-Comment=GUI for various Kali Linux security tools
-Exec=kalisuite
-Icon=kalisuite
-Terminal=false
-Type=Application
-Categories=Network;Security;Utility;
