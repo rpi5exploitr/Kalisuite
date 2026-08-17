@@ -27,3 +27,4 @@ KaliSuite does **not** ship the underlying security tools. You must have them in
 - `pixiewps`
 - `spooftooph`
 
+<img width="995" height="624" alt="Screenshot_2026-08-17_11-23-46" src="https://github.com/user-attachments/assets/4ccddf78-be2a-45e8-aa62-73972b3dbf8b" />
